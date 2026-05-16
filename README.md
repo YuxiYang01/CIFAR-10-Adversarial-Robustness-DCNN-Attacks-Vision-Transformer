@@ -75,12 +75,6 @@ PGD-based adversarial training (Madry et al., 2018). Fine-tuned from Part A chec
 | PGD | 0.03 | 31.41% | 44.53% | +13.12 |
 | PGD | 0.10 | 2.58% | 0.55% | −2.03 |
 
-<p align="center">
-  <img src="assets/defense_comparison.png" width="500" alt="Defense comparison"/>
-</p>
-
----
-
 ## Part C (Extra Credit) — Vision Transformer
 
 ### Architecture
