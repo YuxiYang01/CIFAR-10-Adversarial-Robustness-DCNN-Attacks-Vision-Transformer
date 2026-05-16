@@ -33,11 +33,6 @@ Custom ResNet-style CNN with four residual stages:
 | Train accuracy | 99.98% |
 | **Test accuracy** | **95.15%** |
 
-<p align="center">
-  <img src="assets/training_curves.png" width="700" alt="Training curves"/>
-</p>
-
----
 
 ## Part B — Adversarial Attacks & Defense
 
@@ -63,10 +58,6 @@ Clean accuracy baseline: **95.15%**
 | FGSM | 74.45% | 63.91% | 15.08% |
 | PGD | 58.83% | 31.41% | **2.58%** |
 
-<p align="center">
-  <img src="assets/attack_comparison.png" width="500" alt="Attack comparison"/>
-  <img src="assets/adversarial_examples.png" width="500" alt="Adversarial examples"/>
-</p>
 
 ### Defense: Adversarial Training
 
