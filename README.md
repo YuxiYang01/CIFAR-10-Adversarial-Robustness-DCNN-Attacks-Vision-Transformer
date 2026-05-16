@@ -1,0 +1,2 @@
+# CIFAR-10-Adversarial-Robustness-DCNN-Attacks-Vision-Transformer
+It covering adversarial attacks, defense, and a Vision Transformer comparison. It achieves 95.16% test accuracy. Three attack methods (Gaussian Noise, FGSM, PGD) are evaluated at ε ∈ {0.01, 0.03, 0.10}, with PGD-based adversarial training as defense. Includes a from-scratch Tiny ViT implementation. Built with PyTorch on Google Colab.
